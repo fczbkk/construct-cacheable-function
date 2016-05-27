@@ -1,6 +1,6 @@
 {
   "name": "construct-cacheable-function",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Converts regular function into cacheable one, which returns result for known parameters immediately, without calling the original function first.",
   "repository": {
     "type": "git",
